@@ -8,14 +8,13 @@ Instead of remembering ports like `localhost:5000`, you can access your applicat
 
 ## Dashboard Preview
 
-![pydns Dashboard Interface](<img width="1003" height="592" alt="image" src="https://github.com/user-attachments/assets/b1321112-9b4b-4b6e-8e0c-0e07cb0e99b2" />
-) 
+<img width="1003" height="592" alt="image" src="https://github.com/user-attachments/assets/b1321112-9b4b-4b6e-8e0c-0e07cb0e99b2" />
 
 ---
 
 ## Features
 
-- ⚡ **Dynamic Domain Creation:** Add local domains on the fly.
+- **Dynamic Domain Creation:** Add local domains on the fly.
 - **Nginx Reverse Proxy Automation:** Automatically generates server blocks.
 - **Hosts File Management:** Automatically injects and cleans up `127.0.0.1` entries.
 - **Minimalist Web UI:** Simple dashboard to manage your local domains.
@@ -36,6 +35,7 @@ pydns/
 ├── static/
 │   └── style.css        # Dashboard styling
 └── README.md            # Project 
+```
 
 ## Prerequisites & Requirements
 
@@ -45,7 +45,6 @@ Since this tool modifies system files (`/etc/hosts`, `/etc/nginx/`), it requires
 - **Python:** Version 3.x or higher
 - **Web Server:** Nginx installed and running
 - **Privileges:** Root/Sudo permissions (required to write to system paths and reload services)
-```
 ---
 
 ## Setup & Installation
