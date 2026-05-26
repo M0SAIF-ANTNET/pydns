@@ -8,7 +8,8 @@ Instead of remembering ports like `localhost:5000`, you can access your applicat
 
 ## Dashboard Preview
 
-![pydns Dashboard Interface](path/to/your/screenshot.png) 
+![pydns Dashboard Interface](<img width="1003" height="592" alt="image" src="https://github.com/user-attachments/assets/b1321112-9b4b-4b6e-8e0c-0e07cb0e99b2" />
+) 
 
 ---
 
