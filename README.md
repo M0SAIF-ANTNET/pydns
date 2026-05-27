@@ -53,7 +53,7 @@ Follow these steps to get **pydns** up and running on your local machine using a
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/M0SAIF-ANTNET/pydns.git](https://github.com/M0SAIF-ANTNET/pydns.git)
+git clone https://github.com/M0SAIF-ANTNET/pydns.git
 cd pydns
 ```
 
